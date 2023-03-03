@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PhotoSliderReact/static/css/main.f79f7fcd.css",
+    "main.js": "/PhotoSliderReact/static/js/main.aa0c42c2.js",
+    "index.html": "/PhotoSliderReact/index.html",
+    "main.f79f7fcd.css.map": "/PhotoSliderReact/static/css/main.f79f7fcd.css.map",
+    "main.aa0c42c2.js.map": "/PhotoSliderReact/static/js/main.aa0c42c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f79f7fcd.css",
+    "static/js/main.aa0c42c2.js"
+  ]
+}
