@@ -1,4 +1,4 @@
-# PhotoSliderReact!
+# PhotoSliderReact
 Для запуска в браузере необходимо:
 
 Открыть терминал
